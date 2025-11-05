@@ -106,8 +106,6 @@ A beautiful and feature-rich pixel art painting application built with Flutter. 
 
 Your Name - [@kanizadev](https://twitter.com/kanizadev)
 
-Project Link: [https://github.com/yourusername/pixel-art-studio](https://github.com/yourusername/pixel-art-studio)
-
 ---
 
 Made with ❤️ using Flutter
