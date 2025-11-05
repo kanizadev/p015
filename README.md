@@ -50,55 +50,6 @@ A beautiful and feature-rich pixel art painting application built with Flutter. 
 - **Adaptive Layout** - Automatically adjusts to different screen sizes
 - **Orientation Support** - Works in both portrait and landscape modes
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Flutter SDK (latest stable version)
-- Dart SDK (comes with Flutter)
-- Android Studio / Xcode (for mobile development)
-- VS Code (recommended) or Android Studio
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/pixel-art-studio.git
-   cd pixel-art-studio
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the app**
-   ```bash
-   flutter run
-   ```
-
-### Platform-Specific Setup
-
-#### Android
-- Minimum SDK version: 21
-- Target SDK version: Latest
-- Storage permissions are handled automatically for saving images
-
-#### iOS
-- Minimum iOS version: 12.0
-- Photo library permissions are requested when saving images
-
-#### Web
-```bash
-flutter run -d chrome
-```
-
-#### Desktop (Windows/macOS/Linux)
-```bash
-flutter run -d windows
-flutter run -d macos
-flutter run -d linux
-```
-
 ## 📖 Usage Guide
 
 ### Basic Drawing
@@ -125,14 +76,6 @@ flutter run -d linux
 2. Your artwork will be saved to your device's gallery/photos
 3. A success message will confirm the save
 
-## 🛠️ Dependencies
-
-```yaml
-dependencies:
-  flutter:
-    sdk: flutter
-  image_gallery_saver: ^2.0.3
-```
 
 ## 📱 Screenshots
 
@@ -151,19 +94,7 @@ dependencies:
 - [ ] Layer blend modes
 - [ ] Project file format
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
@@ -173,7 +104,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@kanizadev](https://twitter.com/kanizadev)
 
 Project Link: [https://github.com/yourusername/pixel-art-studio](https://github.com/yourusername/pixel-art-studio)
 
