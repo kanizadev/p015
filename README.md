@@ -82,7 +82,7 @@ A beautiful and feature-rich pixel art painting application built with Flutter. 
 
 ## 📱 Screenshots
 
-*Screenshots coming soon!*
+<img src="https://raw.githubusercontent.com/kanizadev/p015/refs/heads/main/studio.png" hight=446 width=243 />
 
 ## 🎯 Roadmap
 
